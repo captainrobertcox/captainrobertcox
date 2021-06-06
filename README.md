@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @captainrobertcox
-- 👀 I’m interested in space, simulators, drones, c++, science, engineering, programming (of course), c++, raspberry pi, and more!
+- 👀 I’m interested in space, simulators, drones, c++, science, engineering, programming (of course), raspberry pi, and more!
 - 🌱 I’m currently learning all kinds of interesting things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email: captainrobertcox@hotmail.com
